@@ -10,7 +10,6 @@
 | [security-red-teaming-log.md](security-red-teaming-log.md) | Security & Red Teaming Log (розділи 1–8) |
 | [evals/sets/l06_security.jsonl](evals/sets/l06_security.jsonl) | 6 security-кейсів, `added_in: l06` |
 | [reports/](reports/) | сирі звіти прогону набору: `lesson-06` і `clean` |
-| [evidence/](evidence/) | докази до журналу: відповіді агента, спани, скрипти зняття (F-01…F-04) |
 
 `.env` стенду й ключі API в репозиторій не входять. Ранер заняття в репозиторії теж немає, він лежить у `alex-pancho/paypilot-l06-eval`.
 
